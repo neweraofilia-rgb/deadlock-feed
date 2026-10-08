@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-08 22:35">
+  <shop>
+    <name>Deadlock Boost</name>
+    <company>Deadlock Boost</company>
+    <url>https://t.me/deadlockboosts</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Услуги Deadlock</category>
+    </categories>
+    <offers>
+      <offer id="DLB-001" available="true">
+        <name>Буст рейтинга — низкие ранги</name>
+        <description>Помощь с апом ранга в Deadlock на низких рангах. Цена за 1 победу. Серверы EU / RU / NA. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX1.png</picture>
+        <price>199</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-002" available="true">
+        <name>Буст рейтинга — средние ранги</name>
+        <description>Буст рейтинга в Deadlock для средних рангов. Цена за 1 победу. Серверы EU / RU / NA. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX1.png</picture>
+        <price>249</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-003" available="true">
+        <name>Буст рейтинга — высокие ранги</name>
+        <description>Буст рейтинга в Deadlock для высоких рангов. Цена за 1 победу. Серверы EU / RU / NA. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX1.png</picture>
+        <price>499</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-004" available="true">
+        <name>Буст рейтинга — хай-эло</name>
+        <description>Буст рейтинга в Deadlock на хай-эло. Цена за 1 победу. Серверы EU / RU / NA. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX1.png</picture>
+        <price>890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-005" available="true">
+        <name>Открытие рейтинга — 45 побед</name>
+        <description>Выполняем 45 побед для открытия рейтингового режима Deadlock. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqYH.png</picture>
+        <price>7990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-006" available="true">
+        <name>Калибровка — 1 матч</name>
+        <description>Калибровочный матч в Deadlock с упором на сильный результат. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX9.png</picture>
+        <price>349</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-007" available="true">
+        <name>Полная калибровка</name>
+        <description>Полная калибровка в Deadlock. Проходим весь пакет матчей на максимально возможный результат. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqX9.png</picture>
+        <price>2790</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-008" available="true">
+        <name>Коучинг для новичков</name>
+        <description>Индивидуальное обучение Deadlock с нуля: база, макро, микро, ошибки и план роста. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqYW.png</picture>
+        <price>3490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-009" available="true">
+        <name>Live coaching / разбор игры</name>
+        <description>Разбор игры в реальном времени: позиционка, тайминги, макро и микро. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqYW.png</picture>
+        <price>1890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-010" available="true">
+        <name>Игра в пати — Ranked / Street Brawl</name>
+        <description>Игра в пати с сильным игроком Deadlock. Формат — 1 час. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqYZ.png</picture>
+        <price>1090</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-011" available="true">
+        <name>Снятие Low Priority</name>
+        <description>Помощь со снятием Low Priority в Deadlock. Цена за 1 игру. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqY0.png</picture>
+        <price>299</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="DLB-012" available="true">
+        <name>Инвайт в игру + обучение</name>
+        <description>Инвайт в Deadlock и примерно 2 часа обучения для новичка. Заказ: @deadlockboosts</description>
+        <picture>https://i.yapx.ru/eRqYW.png</picture>
+        <price>4690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
