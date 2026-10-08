@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-08 23:10">
+<yml_catalog date="2026-10-08 23:15">
   <shop>
     <name>Deadlock Boost</name>
     <company>Deadlock Boost</company>
@@ -8,304 +8,304 @@
       <currency id="RUR" rate="1"/>
     </currencies>
     <categories>
-      <category id="1">Deadlock Boosting</category>
-      <category id="2">Deadlock Calibration</category>
-      <category id="3">Deadlock Coaching</category>
-      <category id="4">Deadlock LP Removal</category>
-      <category id="5">Deadlock Services</category>
+      <category id="1">Буст рейтинга</category>
+      <category id="2">Калибровка</category>
+      <category id="3">Коучинг</category>
+      <category id="4">Low Priority</category>
+      <category id="5">Другие услуги</category>
     </categories>
     <offers>
       <offer id="DLB-001" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Initiate - Seeker (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Initiate - Seeker (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Initiate - Seeker (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Initiate - Seeker (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>142.02</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-002" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Seeker - Acolyte (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Seeker - Acolyte (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Seeker - Acolyte (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Seeker - Acolyte (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>162.04</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-003" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Acolyte - Sentinel (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Acolyte - Sentinel (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Acolyte - Sentinel (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Acolyte - Sentinel (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>172.53</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-004" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Sentinel - Mystic (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Sentinel - Mystic (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Sentinel - Mystic (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Sentinel - Mystic (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>183.96</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-005" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Mystic - Ritualist (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Mystic - Ritualist (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Mystic - Ritualist (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Mystic - Ritualist (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>187.78</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-006" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Ritualist - Emissary (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Ritualist - Emissary (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Ritualist - Emissary (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Ritualist - Emissary (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>259.27</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-007" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Emissary - Oracle (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Emissary - Oracle (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Emissary - Oracle (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Emissary - Oracle (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>257.36</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-008" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Oracle - Phantom (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Oracle - Phantom (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Oracle - Phantom (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Oracle - Phantom (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>328.85</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-009" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Phantom - Ascendant (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Phantom - Ascendant (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Phantom - Ascendant (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Phantom - Ascendant (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>529.02</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-010" available="true">
-        <name>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Ascendant - Eternus (price per one win)</name>
-        <description>「 EU / RU / NA 」🩵 PRICE PER 1 WIN 🩵 | 💥 FAST BOOST BY TOP-20 EU PLAYER 💥 | ETERNUS, Ascendant - Eternus (price per one win)</description>
+        <name>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Ascendant - Eternus (цена за 1 победу)</name>
+        <description>「 EU / RU / NA 」🩵 ЦЕНА ЗА 1 ПОБЕДУ 🩵 | 💥 БЫСТРЫЙ БУСТ ОТ ИГРОКА TOP-20 EU 💥 | ETERNUS, Ascendant - Eternus (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>764.45</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-011" available="true">
-        <name>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥, Ascendant - Eternus (price per one win)</name>
-        <description>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥, Ascendant - Eternus (price per one win)</description>
+        <name>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥, Ascendant - Eternus (цена за 1 победу)</name>
+        <description>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥, Ascendant - Eternus (цена за 1 победу)</description>
         <picture>https://i.yapx.ru/eRqX1.png</picture>
         <price>7070.70</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
       </offer>
       <offer id="DLB-012" available="true">
-        <name>🎯 CALIBRATION | 2 MATCHES | FAST EXECUTION</name>
-        <description>🎯 CALIBRATION | 2 MATCHES | FAST EXECUTION</description>
+        <name>🎯 КАЛИБРОВКА | 2 МАТЧА | БЫСТРОЕ ВЫПОЛНЕНИЕ</name>
+        <description>🎯 КАЛИБРОВКА | 2 МАТЧА | БЫСТРОЕ ВЫПОЛНЕНИЕ</description>
         <picture>https://i.yapx.ru/eRqX9.png</picture>
         <price>470.87</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
       </offer>
       <offer id="DLB-013" available="true">
-        <name>🎯 FULL CALIBRATION | 8 MATCHES | MAXIMUM RESULT</name>
-        <description>🎯 FULL CALIBRATION | 8 MATCHES | MAXIMUM RESULT</description>
+        <name>🎯 ПОЛНАЯ КАЛИБРОВКА | 8 МАТЧЕЙ | МАКСИМАЛЬНЫЙ РЕЗУЛЬТАТ</name>
+        <description>🎯 ПОЛНАЯ КАЛИБРОВКА | 8 МАТЧЕЙ | МАКСИМАЛЬНЫЙ РЕЗУЛЬТАТ</description>
         <picture>https://i.yapx.ru/eRqX9.png</picture>
         <price>2462.07</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
       </offer>
       <offer id="DLB-014" available="true">
-        <name>🔥 DEADLOCK CALIBRATION | 1 MATCH | PLAYING FOR THE BEST RESULT 🔥</name>
-        <description>🔥 DEADLOCK CALIBRATION | 1 MATCH | PLAYING FOR THE BEST RESULT 🔥</description>
+        <name>🔥 КАЛИБРОВКА DEADLOCK | 1 МАТЧ | ИГРАЕМ НА ЛУЧШИЙ РЕЗУЛЬТАТ 🔥</name>
+        <description>🔥 КАЛИБРОВКА DEADLOCK | 1 МАТЧ | ИГРАЕМ НА ЛУЧШИЙ РЕЗУЛЬТАТ 🔥</description>
         <picture>https://i.yapx.ru/eRqX9.png</picture>
         <price>294.53</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
       </offer>
       <offer id="DLB-015" available="true">
-        <name>✅🔥 15 WINS IN NORMAL MODE TO UNLOCK RANKED — ON ANY HERO 🔥✅</name>
-        <description>✅🔥 15 WINS IN NORMAL MODE TO UNLOCK RANKED — ON ANY HERO 🔥✅</description>
+        <name>✅🔥 15 ПОБЕД В ОБЫЧНОМ РЕЖИМЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА — НА ЛЮБОМ ГЕРОЕ 🔥✅</name>
+        <description>✅🔥 15 ПОБЕД В ОБЫЧНОМ РЕЖИМЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА — НА ЛЮБОМ ГЕРОЕ 🔥✅</description>
         <picture>https://i.yapx.ru/eRqX9.png</picture>
         <price>2591.70</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
       </offer>
       <offer id="DLB-016" available="true">
-        <name>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥</name>
-        <description>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥</description>
+        <name>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</name>
+        <description>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</description>
         <picture>https://i.yapx.ru/eRqX9.png</picture>
         <price>6480.68</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
       </offer>
       <offer id="DLB-017" available="true">
-        <name>🎓 DEADLOCK FOR BEGINNERS | TRAINING FROM ZERO | TOP-100 EU 🎮</name>
-        <description>🎓 DEADLOCK FOR BEGINNERS | TRAINING FROM ZERO | TOP-100 EU 🎮</description>
+        <name>🎓 DEADLOCK ДЛЯ НОВИЧКОВ | ОБУЧЕНИЕ С НУЛЯ | TOP-100 EU 🎮</name>
+        <description>🎓 DEADLOCK ДЛЯ НОВИЧКОВ | ОБУЧЕНИЕ С НУЛЯ | TOP-100 EU 🎮</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>3043.51</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-018" available="true">
-        <name>🎮 DEADLOCK FROM ZERO | INVITE + ~2 HOURS OF TRAINING | TOP 100 EUROPE 🎓</name>
-        <description>🎮 DEADLOCK FROM ZERO | INVITE + ~2 HOURS OF TRAINING | TOP 100 EUROPE 🎓</description>
+        <name>🎮 DEADLOCK С НУЛЯ | ИНВАЙТ + ~2 ЧАСА ОБУЧЕНИЯ | TOP-100 ЕВРОПЫ 🎓</name>
+        <description>🎮 DEADLOCK С НУЛЯ | ИНВАЙТ + ~2 ЧАСА ОБУЧЕНИЯ | TOP-100 ЕВРОПЫ 🎓</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>4057.69</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-019" available="true">
-        <name>💎 PERSONAL TRAINING ×3 | TOP-20 EU | FULL COURSE</name>
-        <description>💎 PERSONAL TRAINING ×3 | TOP-20 EU | FULL COURSE</description>
+        <name>💎 ПЕРСОНАЛЬНОЕ ОБУЧЕНИЕ ×3 | TOP-20 EU | ПОЛНЫЙ КУРС</name>
+        <description>💎 ПЕРСОНАЛЬНОЕ ОБУЧЕНИЕ ×3 | TOP-20 EU | ПОЛНЫЙ КУРС</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>4595.29</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-020" available="true">
-        <name>🏆 PREPARATION FOR RANKED | TOP-20 EU | FULL GAME REVIEW</name>
-        <description>🏆 PREPARATION FOR RANKED | TOP-20 EU | FULL GAME REVIEW</description>
+        <name>🏆 ПОДГОТОВКА К РЕЙТИНГУ | TOP-20 EU | ПОЛНЫЙ РАЗБОР ИГРЫ</name>
+        <description>🏆 ПОДГОТОВКА К РЕЙТИНГУ | TOP-20 EU | ПОЛНЫЙ РАЗБОР ИГРЫ</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1755.76</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-021" available="true">
-        <name>🔴 LIVE COACHING | I'LL BREAK YOUR GAME IN REAL TIME</name>
-        <description>🔴 LIVE COACHING | I'LL BREAK YOUR GAME IN REAL TIME</description>
+        <name>🔴 LIVE-КОУЧИНГ | РАЗБОР ТВОЕЙ ИГРЫ В РЕАЛЬНОМ ВРЕМЕНИ</name>
+        <description>🔴 LIVE-КОУЧИНГ | РАЗБОР ТВОЕЙ ИГРЫ В РЕАЛЬНОМ ВРЕМЕНИ</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1637.56</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-022" available="true">
-        <name>🦸 TRAINING WITH ANY HERO | FROM ZERO TO CONFIDENT GAME</name>
-        <description>🦸 TRAINING WITH ANY HERO | FROM ZERO TO CONFIDENT GAME</description>
+        <name>🦸 ОБУЧЕНИЕ НА ЛЮБОМ ГЕРОЕ | ОТ НУЛЯ ДО УВЕРЕННОЙ ИГРЫ</name>
+        <description>🦸 ОБУЧЕНИЕ НА ЛЮБОМ ГЕРОЕ | ОТ НУЛЯ ДО УВЕРЕННОЙ ИГРЫ</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>2462.07</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-023" available="true">
-        <name>🛒 BUILD + ITEMS FOR YOUR HERO | TOP-20 EU</name>
-        <description>🛒 BUILD + ITEMS FOR YOUR HERO | TOP-20 EU</description>
+        <name>🛒 БИЛД + ПРЕДМЕТЫ ДЛЯ ТВОЕГО ГЕРОЯ | TOP-20 EU</name>
+        <description>🛒 БИЛД + ПРЕДМЕТЫ ДЛЯ ТВОЕГО ГЕРОЯ | TOP-20 EU</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1413.57</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-024" available="true">
-        <name>🗺️ MACRO DEADLOCK | MAP, FARM, ROTATIONS AND OBJECTS</name>
-        <description>🗺️ MACRO DEADLOCK | MAP, FARM, ROTATIONS AND OBJECTS</description>
+        <name>🗺️ МАКРО В DEADLOCK | КАРТА, ФАРМ, РОТАЦИИ И ОБЪЕКТЫ</name>
+        <description>🗺️ МАКРО В DEADLOCK | КАРТА, ФАРМ, РОТАЦИИ И ОБЪЕКТЫ</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1413.57</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-025" available="true">
-        <name>🎯 MECHANICS AND SHOOTING | AIM + MOVEMENT | DEADLOCK</name>
-        <description>🎯 MECHANICS AND SHOOTING | AIM + MOVEMENT | DEADLOCK</description>
+        <name>🎯 МЕХАНИКА И СТРЕЛЬБА | AIM + MOVEMENT | DEADLOCK</name>
+        <description>🎯 МЕХАНИКА И СТРЕЛЬБА | AIM + MOVEMENT | DEADLOCK</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1413.57</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-026" available="true">
-        <name>⚔️ HOW TO WIN A LINE | TRAINING FROM TOP-20 EU</name>
-        <description>⚔️ HOW TO WIN A LINE | TRAINING FROM TOP-20 EU</description>
+        <name>⚔️ КАК ВЫИГРЫВАТЬ ЛИНИЮ | ОБУЧЕНИЕ ОТ TOP-20 EU</name>
+        <description>⚔️ КАК ВЫИГРЫВАТЬ ЛИНИЮ | ОБУЧЕНИЕ ОТ TOP-20 EU</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1413.57</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-027" available="true">
-        <name>💥 TOP-20 EU TRAINER | ETERNUS 6 | 5000+ HOURS 💥 🖤 For any skill level</name>
-        <description>💥 TOP-20 EU TRAINER | ETERNUS 6 | 5000+ HOURS 💥 🖤 For any skill level</description>
+        <name>💥 ТРЕНЕР TOP-20 EU | ETERNUS 6 | 5000+ ЧАСОВ 💥 🖤 Для любого уровня игры</name>
+        <description>💥 ТРЕНЕР TOP-20 EU | ETERNUS 6 | 5000+ ЧАСОВ 💥 🖤 Для любого уровня игры</description>
         <picture>https://i.yapx.ru/eRqYW.png</picture>
         <price>1413.57</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
       </offer>
       <offer id="DLB-028" available="true">
-        <name>💎ETERNUS 6💎🔷LP LAUNDER🔷4 GAMES🔷| 🎯GUARANTEE🎯</name>
-        <description>💎ETERNUS 6💎🔷LP LAUNDER🔷4 GAMES🔷| 🎯GUARANTEE🎯</description>
+        <name>💎 ETERNUS 6 💎 🔷 СНЯТИЕ LOW PRIORITY 🔷 4 ИГРЫ 🔷 | 🎯 ГАРАНТИЯ 🎯</name>
+        <description>💎 ETERNUS 6 💎 🔷 СНЯТИЕ LOW PRIORITY 🔷 4 ИГРЫ 🔷 | 🎯 ГАРАНТИЯ 🎯</description>
         <picture>https://i.yapx.ru/eRqY0.png</picture>
         <price>253.55</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
       </offer>
       <offer id="DLB-029" available="true">
-        <name>🔥 30 WINS | 15 VICTORIES WITH 2 HEROES</name>
-        <description>🔥 30 WINS | 15 VICTORIES WITH 2 HEROES</description>
+        <name>🔥 30 ПОБЕД | ПО 15 ПОБЕД НА 2 ГЕРОЯХ</name>
+        <description>🔥 30 ПОБЕД | ПО 15 ПОБЕД НА 2 ГЕРОЯХ</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>4594.33</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-030" available="true">
-        <name>🔥 10 WINS ON ANY HERO | FAST</name>
-        <description>🔥 10 WINS ON ANY HERO | FAST</description>
+        <name>🔥 10 ПОБЕД НА ЛЮБОМ ГЕРОЕ | БЫСТРО</name>
+        <description>🔥 10 ПОБЕД НА ЛЮБОМ ГЕРОЕ | БЫСТРО</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>2591.70</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-031" available="true">
-        <name>💎 CUSTOM ORDER DEADLOCK | ANY TASK</name>
-        <description>💎 CUSTOM ORDER DEADLOCK | ANY TASK</description>
+        <name>💎 ИНДИВИДУАЛЬНЫЙ ЗАКАЗ DEADLOCK | ЛЮБАЯ ЗАДАЧА</name>
+        <description>💎 ИНДИВИДУАЛЬНЫЙ ЗАКАЗ DEADLOCK | ЛЮБАЯ ЗАДАЧА</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>1.12</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-032" available="true">
-        <name>💥 TOP-20 EU TRAINER | ETERNUS 6 | 5000+ HOURS 💥 🖤 For any skill level</name>
-        <description>💥 TOP-20 EU TRAINER | ETERNUS 6 | 5000+ HOURS 💥 🖤 For any skill level</description>
+        <name>💥 ТРЕНЕР TOP-20 EU | ETERNUS 6 | 5000+ ЧАСОВ 💥 🖤 Для любого уровня игры</name>
+        <description>💥 ТРЕНЕР TOP-20 EU | ETERNUS 6 | 5000+ ЧАСОВ 💥 🖤 Для любого уровня игры</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>1058.98</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-033" available="true">
-        <name>💥 LOW PRIORITY CLEARING 🔥 | DEADLOCK 🎯 | PRICE PER 1 GAME 💰</name>
-        <description>💥 LOW PRIORITY CLEARING 🔥 | DEADLOCK 🎯 | PRICE PER 1 GAME 💰</description>
+        <name>💥 СНЯТИЕ LOW PRIORITY 🔥 | DEADLOCK 🎯 | ЦЕНА ЗА 1 ИГРУ 💰</name>
+        <description>💥 СНЯТИЕ LOW PRIORITY 🔥 | DEADLOCK 🎯 | ЦЕНА ЗА 1 ИГРУ 💰</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>259.27</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-034" available="true">
-        <name>[ EU / RU / NA ] 🎮🔥 PLAY IN PARTY WITH 💥TOP-20 EU💥 😎🤝 | RANKED 🏆 / STREET BRAWL 🥊 | HOURLY ⏰</name>
-        <description>[ EU / RU / NA ] 🎮🔥 PLAY IN PARTY WITH 💥TOP-20 EU💥 😎🤝 | RANKED 🏆 / STREET BRAWL 🥊 | HOURLY ⏰</description>
+        <name>[ EU / RU / NA ] 🎮🔥 ИГРА В ПАТИ С 💥TOP-20 EU💥 😎🤝 | РЕЙТИНГ 🏆 / STREET BRAWL 🥊 | ПОЧАСОВО ⏰</name>
+        <description>[ EU / RU / NA ] 🎮🔥 ИГРА В ПАТИ С 💥TOP-20 EU💥 😎🤝 | РЕЙТИНГ 🏆 / STREET BRAWL 🥊 | ПОЧАСОВО ⏰</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>919.82</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-035" available="true">
-        <name>✅🔥 5 WINS IN NORMAL MODE TO UNLOCK RANKED — ON ANY HERO 🔥✅</name>
-        <description>✅🔥 5 WINS IN NORMAL MODE TO UNLOCK RANKED — ON ANY HERO 🔥✅</description>
+        <name>✅🔥 5 ПОБЕД В ОБЫЧНОМ РЕЖИМЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА — НА ЛЮБОМ ГЕРОЕ 🔥✅</name>
+        <description>✅🔥 5 ПОБЕД В ОБЫЧНОМ РЕЖИМЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА — НА ЛЮБОМ ГЕРОЕ 🔥✅</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>777.80</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-036" available="true">
-        <name>🔥 DEADLOCK — 15 WINS ON EACH HERO TO UNLOCK RANKED 🔥</name>
-        <description>🔥 DEADLOCK — 15 WINS ON EACH HERO TO UNLOCK RANKED 🔥</description>
+        <name>🔥 DEADLOCK — 15 ПОБЕД НА КАЖДОМ ГЕРОЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</name>
+        <description>🔥 DEADLOCK — 15 ПОБЕД НА КАЖДОМ ГЕРОЕ ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>70700.29</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
       </offer>
       <offer id="DLB-037" available="true">
-        <name>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥</name>
-        <description>🔥 DEADLOCK — 45 WINS TO UNLOCK RANKED 🔥</description>
+        <name>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</name>
+        <description>🔥 DEADLOCK — 45 ПОБЕД ДЛЯ ОТКРЫТИЯ РЕЙТИНГА 🔥</description>
         <picture>https://i.yapx.ru/eRqYZ.png</picture>
         <price>7070.70</price>
         <currencyId>RUR</currencyId>
