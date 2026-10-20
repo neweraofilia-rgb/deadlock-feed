@@ -41,7 +41,7 @@ def get_image(url, name):
     return img
 
 URLS = {
-    "demidov": "https://cdn.culture.ru/images/a74789cb-3521-5e35-8fa0-6103514fb74c",
+    "demidov": "https://idemvmuzei.ru/storage/museum/32/01/4f/11/fc/41/ae/d0/kolesov.jpg",
     "severskaya": "https://nashural.ru/assets/uploads/DSC_0158-1-1-scaled.jpg",
     "motovilikha": "https://img-fotki.yandex.ru/get/197700/355089976.49/0_11dd40_a5a95787_XXL.jpg",
 }
@@ -179,7 +179,7 @@ items = [
 for i, (n, h, txt) in enumerate(items):
     y = 520 + i*142
     card(d, (78, y, 970, y+116), fill="white")
-    d.rectangle((78, y, 94, y+116), fill=rgb(COL["rust"] if i==0 else ("amber" if i==1 else "teal")))
+    d.rectangle((78, y, 94, y+116), fill=rgb(COL["rust" if i==0 else ("amber" if i==1 else "teal")]))
     d.text((120, y+18), n, font=font(24, True), fill=rgb(COL["rust"]))
     d.text((210, y+15), h, font=font(22, True), fill=rgb(COL["ink"]))
     d.text((210, y+54), txt, font=font(19), fill=rgb(COL["muted"]))
